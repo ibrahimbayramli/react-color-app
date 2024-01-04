@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ibrahimbayramli/react-color-app is built on the following main stack:
+
 - [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - [Coveralls](https://coveralls.io/) – Code Coverage
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
@@ -33,11 +34,13 @@ ibrahimbayramli/react-color-app is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ibrahimbayramli/react-color-app is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/5/default_aa447805966bbb635af0d113e93e1f1030497052.jpg' alt='Segment'/> [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
@@ -69,14 +72,15 @@ ibrahimbayramli/react-color-app is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ibrahimbayramli/react-color-app](https://github.com/ibrahimbayramli/react-color-app)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|155<br/>Tools used|11/09/23 <br/>Report generated|
+|157<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -403,9 +407,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (119)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (121)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (119)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (121)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -470,6 +474,7 @@ Full tech stack [here](/techstack.md)
 |[grunt-contrib-watch](https://www.npmjs.com/grunt-contrib-watch)|v0.6.1|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[hbs](https://www.npmjs.com/hbs)|v4.0.4|03/25/23|İbrahim BAYRAMLI |MIT|[CVE-2021-32822](https://github.com/advisories/GHSA-7f5c-rpf4-86p8) (Moderate)|
 |[http-errors](https://www.npmjs.com/http-errors)|v1.7.2|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v0.14.3|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[iconv](https://www.npmjs.com/iconv)|N/A|03/25/23|İbrahim BAYRAMLI |ISC|N/A|
 |[iconv-lite](https://www.npmjs.com/iconv-lite)|v0.4.24|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[inherits](https://www.npmjs.com/inherits)|v2.0.3|03/25/23|İbrahim BAYRAMLI |ISC|N/A|
@@ -481,7 +486,8 @@ Full tech stack [here](/techstack.md)
 |[karma-mocha](https://www.npmjs.com/karma-mocha)|v1.3.0|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[karma-phantomjs-launcher](https://www.npmjs.com/karma-phantomjs-launcher)|v1.0.2|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[karma-sinon](https://www.npmjs.com/karma-sinon)|v1.0.5|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v0.6.2|03/25/23|İbrahim BAYRAMLI |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[](https://github.com/advisories/GHSA-ch52-vgq2-943f) (Low)|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v5.0.0|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
+|[marked](https://www.npmjs.com/marked)|v0.6.2|03/25/23|İbrahim BAYRAMLI |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[](https://github.com/advisories/GHSA-ch52-vgq2-943f) (Low)|
 |[matcha](https://www.npmjs.com/matcha)|v0.7.0|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[merge-descriptors](https://www.npmjs.com/merge-descriptors)|v1.0.1|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
 |[method-override](https://www.npmjs.com/method-override)|v3.0.0|03/25/23|İbrahim BAYRAMLI |MIT|N/A|
@@ -532,4 +538,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
